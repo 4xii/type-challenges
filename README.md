@@ -31,6 +31,9 @@ There are a bunch of awesome type utility libraries that may boost your works on
 
 This project is aimed at helping you better understand how the type system works, writing your own utilities, or just having fun with the challenges. We are also trying to form a community where you can ask questions and get answers you have faced in the real world - they may become part of the challenges!
 
+## TIPS
+All challenges are designed to work with strict mode.
+
 ## Challenges
 
 > Click the following badges to see details of the challenges.
